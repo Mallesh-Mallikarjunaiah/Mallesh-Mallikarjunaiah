@@ -1,8 +1,9 @@
 <!-- ⚡ MALLLESH MALLIKARJUNAIAH – NEON MATRIX README ⚡ -->
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=32&duration=3000&pause=500&color=00FFF7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Mallesh+Mallikarjunaiah!;Full-Stack+Developer+%7C+QA+Engineer;MSIS+@+Northeastern+University+(Boston)" alt="Typing SVG" />
-</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=32&duration=3000&pause=500&color=00FFF7&center=true&vCenter=true&multiline=true&width=950&lines=Hey+there%2C+I'm+Mallesh+Mallikarjunaiah!;Full-Stack+Developer+%7C+QA+Engineer;MSIS+%40+Northeastern+University+(Boston)" alt="Typing SVG" style="max-width:100%;padding:10px;"/>
+</h1>
+
 
 <p align="center">
   <a href="https://mallesh-tech-folio.online/"><img src="https://img.shields.io/badge/Portfolio-mallesh--tech--folio.online-%2300FFFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
