@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://mallesh-tech-folio.online/"><img src="https://img.shields.io/badge/Portfolio-mallesh--tech--folio.online-%2300FFFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/malleshmallikarjunaiah"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:malleshmallikarjunaiah@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/mallesh-mallikarjunaiah/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:mallikarjunaiah.m@northeastern.edu"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
