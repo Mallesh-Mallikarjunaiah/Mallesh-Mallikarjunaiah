@@ -160,10 +160,10 @@ gantt
 
 ## 🤝 Connect
 
-- LinkedIn: https://www.linkedin.com/in/malleshmallikarjunaiah  
-- Portfolio: https://mallesh-tech-folio.online  
-- Email: malleshmallikarjunaiah@gmail.com  
-- GitHub: https://github.com/Mallesh-Mallikarjunaiah  
+- LinkedIn: https://www.linkedin.com/in/mallesh-mallikarjunaiah/
+- Portfolio: https://mallesh-tech-folio.online
+- Email: mallikarjunaiah.m@northeastern.edu
+- GitHub: https://github.com/Mallesh-Mallikarjunaiah
 
 ---
 
