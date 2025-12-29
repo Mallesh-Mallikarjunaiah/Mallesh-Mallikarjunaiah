@@ -21,7 +21,7 @@
 
 ---
 
-## 🧠 About Me — *Neon Matrix Edition*
+## 🧠 About Me — Neon Matrix Edition
 
 ```ts
 const mallesh = {
