@@ -58,10 +58,13 @@
 
 ## 🧪 Other Projects
 
+
 | Project | Description | Tech |
 |------|-----------|------|
-| 🐄 Cattle Feed Analytics | IoT-driven analytics dashboard | Python · MySQL · Power BI · Azure |
-| 🍔 City Bites Boston | Restaurant discovery web app | HTML · CSS · JavaScript |
+| 💰 Group_10_Price_Model | Range-based pricing model to analyze product performance and dynamically adjust target prices based on customer behavior | Java · Swing UI · Pricing Analytics |
+| 🎓 University Management System (UMS) | Role-based university administration system for course management, enrollment, grading, tuition payments, and institutional reporting | Java · Swing UI · JDBC · RBAC |
+| 🍔 City Bites — Two-Page Website | Two-page responsive website showcasing CSS Grid, Flexbox, and advanced SASS/SCSS features with modular architecture | HTML · CSS Grid · Flexbox · SASS/SCSS |
+| ⏱️ Web Application with jQuery & Modern JavaScript | Mini web apps including a jQuery-based Login + Calculator and an Event Stopwatch using async/await, Promises, and session history | JavaScript · jQuery · Async/Await · Promises |
 
 ---
 
