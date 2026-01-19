@@ -10,7 +10,7 @@
 
 | | |
 |---|---|
-| **💼 Experience**  <br/> 5+ years of industry experience in QA engineering, automation testing, and enterprise application support. <br/><br/> **⚙️ What I Build**  <br/> Scalable full-stack applications, automation frameworks, and quality-driven software systems. <br/><br/> **🧩 Tech Focus**  <br/> Java • React • Node.js • REST APIs • Selenium • SQL • Azure. <br/><br/> **🎯 Mindset**  <br/> Quality-first engineering with a strong focus on reliability, usability, and maintainability. | <p align="center"><img src="https://devtechnosys.com/insights/wp-content/uploads/2023/07/Custom-Software-Development-gif.gif" width="260"/></p> |
+| **💼 Experience**  <br/> 5+ years of industry experience in QA engineering, automation testing, and enterprise application support. <br/><br/> **⚙️ What I Build**  <br/> Scalable full-stack applications, automation frameworks, and quality-driven software systems. <br/><br/> **🧩 Tech Focus**  <br/> Java • React • Node.js • REST APIs • Selenium • SQL • Azure. <br/><br/> **🎯 Mindset**  <br/> Quality-first engineering with a strong focus on reliability, usability, and maintainability. | <p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjF4cmJoNnN6bXM3OGNoNjVjNjBneTlubGk2YnB4bThldWEzcW9mbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="260"/></p> |
 
 📌 **Professional Impact**
 - Built and tested enterprise applications used across multiple business teams  
