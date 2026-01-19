@@ -32,13 +32,16 @@
 
 ## 🚀 Featured Academic Projects
 
-### 🏥 **CareLink 360 — Healthcare Management Ecosystem**
-**Course:** INFO 5100 – Application Engineering & Development  
-**Tech:** Java · Java Swing · DB4O · MVC · OOP  
+### 🏥 CareLink 360 — Healthcare Management Ecosystem
 
-- Developed role-based healthcare workflows (Doctor, Patient, Insurance, Admin)  
-- Implemented WorkQueue-driven business logic and data persistence  
-- Applied clean MVC architecture and object-oriented design principles  
+**Problem:** Fragmented healthcare workflows across roles  
+**Solution:** Modular, role-based Java application with clean MVC  
+**Outcome:** Scalable architecture supporting Doctors, Patients, Insurance & Admins  
+
+**Engineering Focus**
+- Business logic orchestration via WorkQueue pattern  
+- Strong separation of concerns (MVC)  
+- Persistent object storage with DB4O  
 
 🔗 https://github.com/Mallesh-Mallikarjunaiah/Group_15_Final_Project_CareLink_360](https://github.com/Mallesh-Mallikarjunaiah/CareLink_360
 
