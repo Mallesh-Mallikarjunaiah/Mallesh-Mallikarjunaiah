@@ -40,7 +40,7 @@
 - Implemented WorkQueue-driven business logic and data persistence  
 - Applied clean MVC architecture and object-oriented design principles  
 
-🔗 https://github.com/Mallesh-Mallikarjunaiah/Group_15_Final_Project_CareLink_360
+🔗 https://github.com/Mallesh-Mallikarjunaiah/Group_15_Final_Project_CareLink_360](https://github.com/Mallesh-Mallikarjunaiah/CareLink_360
 
 ---
 
@@ -52,7 +52,7 @@
 - Implemented client-side logic and form validations  
 - Focused on UX clarity and usability  
 
-🔗 https://github.com/Mallesh-Mallikarjunaiah/EduTrack-AI
+🔗 https://github.com/Mallesh-Mallikarjunaiah/EduTrack_AI
 
 ---
 
