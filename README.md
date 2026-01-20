@@ -47,16 +47,28 @@
 
 ---
 
-### 🎓 **EduTrack AI — Education Management Platform**
+### 🎓 EduTrack AI — Education Management Platform
+
 **Course:** INFO 6150 – Web Design & User Experience  
-**Tech:** HTML · CSS · JavaScript · Bootstrap  
+**Tech Stack:** HTML · CSS · JavaScript · Bootstrap  
 
-- Designed responsive, accessible UI components  
-- Implemented client-side logic and form validations  
-- Focused on UX clarity and usability  
+**Problem:**  
+Educational workflows such as student registration, course tracking, and academic data management are often fragmented, non-intuitive, and lack a student-centric user experience.
 
-🔗 https://github.com/Mallesh-Mallikarjunaiah/EduTrack_AI
+**Solution:**  
+Designed and developed a responsive, front-end–driven education management platform focused on usability, accessibility, and clean UI interactions. The platform emphasizes intuitive navigation, consistent design patterns, and form-based data handling to improve the overall academic experience.
 
+**Outcome:**  
+Delivered a user-friendly and scalable UI foundation that improves clarity, reduces user friction, and supports seamless future backend integration.
+
+**Engineering & UX Focus:**  
+- Responsive and mobile-first UI using **Bootstrap grid and components**  
+- Client-side business logic with **JavaScript** for form handling and validations  
+- Accessibility-focused design (readability, contrast, semantic HTML structure)  
+- Modular and reusable UI components for maintainability  
+- UX-driven layout decisions based on usability principles  
+
+🔗 **GitHub:** https://github.com/Mallesh-Mallikarjunaiah/EduTrack_AI
 ---
 
 ## 🧪 Other Projects
