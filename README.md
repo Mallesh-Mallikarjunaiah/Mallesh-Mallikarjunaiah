@@ -1,4 +1,4 @@
-![Full Stack Engineer][(https://capsule-render.vercel.app/api?type=rect&color=gradient&width=3000&height=160&section=header&text=Mallesh%20Mallikarjunaiah&fontSize=38&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20QA%20Engineer%20%7C%20MSIS%20@%20Northeastern&descAlignY=65)](https://capsule-render.vercel.app/api?type=rect&color=gradient&width=1200&height=160&section=header&text=Mallesh%20Mallikarjunaiah&fontSize=38&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20QA%20Engineer%20%7C%20MSIS%20@%20Northeastern&descAlignY=65)
+![Full Stack Engineer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=160&section=header&text=Mallesh%20Mallikarjunaiah&fontSize=38&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20QA%20Engineer%20%7C%20MSIS%20@%20Northeastern&descAlignY=65)
 
 🎓 **MS in Information Systems** — **Northeastern University** (Expected 2027)  
 📍 **Boston, Massachusetts, USA**  
